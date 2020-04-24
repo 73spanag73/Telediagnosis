@@ -16,12 +16,11 @@ https://us02web.zoom.us/rec/share/4uF5Kp3P329LE9bExwLRQ6UnJL-5X6a8hCAd_fVfzksFNp
 
 Password: 2r&&*8*# 
 
-OUR TEAM
+Our Team
 
 Our team represents a multidisciplinary group of scientists which share the vision to offer open source material, supporting well established health care needs. The team leaders are first line clinically active academic health care professionals (Faculty of Medicine, University of Crete), with deep insight and knowledge of the needs of their patients, including Pediatrics, Pulmonology, and Social Medicine. There is a longstanding cooperation with group acknowledged scientists in Computer Science Department of University of Crete, with expertise in sound signal analysis, and in Department of Electrical and Computer Engineering of Hellenic Mediterranean University, with expertise in Internet of Things and Expert Systems. The team has prior expertise, phD Thesis support and publications in medicine, including epidemiology, infectious diseases, pulmonology as well as telemedical applications including electronic health records with decision support tools, digital phonocardiography for diagnostic and teaching purposes, automated computer analysis of heart sounds, design and application of primary health care services, development of open code software and hardware, networking, etc. Our team is open to any new members with expertise to the field of the proposal, welcoming any new idea or constructive criticism.
 
-
-Ερευνητική ομάδα
+Researchers
 
 Ιωάννης Γερμανάκης , Αναπληρωτής Καθηγητής Παιδιατρικής-Παιδοκαρδιολογίας, Ιατρικής Σχολής, Πανεπιστημίου Κρήτης, 
 
